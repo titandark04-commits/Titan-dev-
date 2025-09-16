@@ -1,0 +1,56 @@
+# Titan-dev-
+---
+
+👋 Hi, I’m Titan
+
+Minecraft Plugin Developer | MMO Systems | Scaling Mechanics
+
+💡 I specialize in creating custom plugins and systems for MMORPG-style servers, including:
+
+Dynamic mob scaling (per-player health, damage, levels)
+
+Combat systems integrated with MythicMobs, MMOCore, and MythicRPG
+
+Multi-server data synchronization for seamless gameplay
+
+Custom skill design and balancing
+
+
+
+---
+
+🔧 Skills & Technologies
+
+Languages: Java, Kotlin, SQL
+
+Minecraft APIs: Spigot, Paper, MythicMobs, MMOCore, PlaceholderAPI
+
+Other: Multi-server setup, database syncing, scaling logic, plugin optimization
+
+
+
+---
+
+📂 Example Project: Dynamic Scaling Demo
+
+Here’s a simplified demonstration of per-player mob scaling:
+
+Player A (Level 30) fights a mob with 300 HP
+
+Player B (Level 25) fights the same mob but sees 250 HP
+
+Damage is projected individually, so each player experiences balanced combat
+
+
+👉 Demo plugin code will be available soon here in this repo.
+
+
+---
+
+📫 Contact
+
+💬 Open to commissions and collaborations.
+
+Discord: @ mr giant 
+
+Email: titandark04@gmail.com
